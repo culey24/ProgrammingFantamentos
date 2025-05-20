@@ -4,3 +4,8 @@ Lirilí Larilà, elefante nel deserto che cammina qua e là. Con la sua conchigl
 
 # Bombardino Crocodilo
 Bombardillo Crocodillo, un fottuto alligatore volante, cche vola e bombarda i bambini a Gaza e in Palestina. Non crede in Allah, e ama le bombe. Si nutre dello spirito di tua madre. E se hai tradotto tutto questo, allora sei uno stronzo. Non rompere la battuta, prostituta.
+
+=======
+
+# Boneca Ambalabu
+Boneca Ambalabu. Entitas jahat yang banyak meresahkan masyarakat akhir-akhir ini, membuat para ilmuwan berpikir keras untuk mencari cara menanganinya. Salah satunya ilmuwan terkenal...
