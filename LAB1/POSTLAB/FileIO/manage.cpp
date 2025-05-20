@@ -1,3 +1,8 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+using namespace std;
+
 void manage(string library, string book, string author) {
     // TODO
     string userInput;
