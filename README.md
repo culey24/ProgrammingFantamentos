@@ -10,5 +10,5 @@ Welcome to my infamous programmingfantamentos github repo.
 - ASSIGNMENTS: There are 2 assignments, requires much understanding in coding fantamentos
   + Assignment 1:  Requires understanding on coding topping with a light ammount of algorithm.
   + Assignment 2:  Requires understanding in working over OOP management, therefore, paying attention on lectures classes are crucial.
-## Pro tips
-Bro pls pay attention on classes they are rili useful trust me 💔🥀.
+## Pro tips - If you are K25 or newer
+- Bro pls pay attention on classes they are rili useful trust me 💔🥀.
