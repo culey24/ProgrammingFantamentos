@@ -1,11 +1,14 @@
-# Lirilí Larilà
-Lirilí Larilà, elefante nel deserto che cammina qua e là. Con la sua conchiglia e un orologio che fa tic tac, le spine del cactus mi fanno un attacco flashback. Arriva zio Ramon su una mongolfiera blu, gridando: "Ma che fai lì? Ti piace pure il WiFi, tu?" Io rispondo senza fiato: "cerco solo di capire perché un cactus con sandali si possa anche vestire!"
-=======
+# Programming Fantamentos
 
-# Bombardino Crocodilo
-Bombardillo Crocodillo, un fottuto alligatore volante, cche vola e bombarda i bambini a Gaza e in Palestina. Non crede in Allah, e ama le bombe. Si nutre dello spirito di tua madre. E se hai tradotto tutto questo, allora sei uno stronzo. Non rompere la battuta, prostituta.
+Welcome to my infamous programmingfantamentos github repo.
 
-=======
-
-# Boneca Ambalabu
-Boneca Ambalabu. Entitas jahat yang banyak meresahkan masyarakat akhir-akhir ini, membuat para ilmuwan berpikir keras untuk mencari cara menanganinya. Salah satunya ilmuwan terkenal...
+## Contents
+- LAB: A lab has prelab, inlab and postlab. You do prelab at home, inlab at lab class and postlab at home after the class.
+  + LAB1:  CString, String, FileIO, Functions, Multi-Dimensional Array.
+  + LAB2:  Pointer, Recursion, Struct.
+  + LAB3:  Linked List, OOP.
+- ASSIGNMENTS: There are 2 assignments, requires much understanding in coding fantamentos
+  + Assignment 1:  Requires understanding on coding topping with a light ammount of algorithm.
+  + Assignment 2:  Requires understanding in working over OOP management, therefore, paying attention on lectures classes are crucial.
+## Pro tips
+Bro pls pay attention on classes they are rili useful trust me 💔🥀.
